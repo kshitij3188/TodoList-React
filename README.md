@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Todo-List
+
+### [Live Website](https://todolist-kk.netlify.app/):
+![image](/assets/todolist.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
